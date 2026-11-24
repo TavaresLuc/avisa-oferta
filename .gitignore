@@ -1,0 +1,11 @@
+# dados pessoais — NUNCA subir
+config.ini
+alertas.txt
+ofertas.json
+*.session
+*.session-journal
+app.log
+__pycache__/
+*.pyc
+# gerado por máquina (caminho absoluto)
+Avisa Oferta.vbs
